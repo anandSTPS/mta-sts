@@ -1,0 +1,9 @@
+version: STSv1
+mode: testing
+mx: aspmx.l.google.com
+mx: qkk6oba6j5zduecxuqw3mdh4w3zbdbwwyx4tbjl4pze5y2twiemq.mx-verification.google.com
+mx: alt1.aspmx.l.google.com
+mx: alt2.aspmx.l.google.com
+mx: alt3.aspmx.l.google.com
+mx: alt4.aspmx.l.google.com
+max_age: 604800
